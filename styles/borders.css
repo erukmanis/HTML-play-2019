@@ -1,0 +1,15 @@
+div {
+    border: 5px solid green;
+}
+.class2 {
+    border: solid brown;
+    padding: 10px;
+    margin: 15px;
+}
+
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
