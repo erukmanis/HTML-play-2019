@@ -1,0 +1,15 @@
+.container {
+    display:flex;
+    flex-wrap: wrap;
+
+}
+
+.child {
+    height: 100px;
+    width: 100px;
+    background-color: gold;
+}
+ 
+.child3 {
+    background-color: green;
+}
